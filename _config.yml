@@ -1,3 +1,6 @@
 title: Teamsheets
 description: Weekly timesheets, approvals and reports for Jira Cloud
-theme: jekyll-theme-minimal
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
+baseurl: "/teamsheets-site"
