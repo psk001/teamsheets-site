@@ -1,3 +1,5 @@
+<img src="assets/icon.png" alt="Teamsheets icon" width="96" height="96">
+
 # Teamsheets
 
 Weekly timesheets, approvals and reports for Jira Cloud. Runs on Atlassian: no external servers,
